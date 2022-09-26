@@ -1,4 +1,5 @@
-# email-test
+# email app
+Just palying around with some Vue3 composition API features
 
 ## Project setup
 ```
